@@ -1,0 +1,23 @@
+{
+  "id": "cc68d0e0-81b3-45c0-9d2d-d8f5d2381821",
+  "uid": "ipsum-facilis-aut",
+  "type": "page",
+  "data": {
+    "image": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=900&h=500&fit=crop"
+    },
+    "text": [
+      {
+        "type": "paragraph",
+        "text": "Labore proident nulla do veniam exercitation tempor duis qui ad officia cillum magna voluptate ex nostrud.",
+        "spans": []
+      }
+    ]
+  }
+}
